@@ -46,7 +46,7 @@
 }
 
 .vditor-reset h5 {
-	font-size: 1.2rem;
+	font-size: 1rem;
 }
 .vditor-reset h6 {
 	font-size: 1rem;
@@ -66,6 +66,24 @@
 	font-weight: bold;
 	line-height: 1.4;
 	cursor: text;
+}
+.vditor-reset h1::before {
+	margin-top: 1.4em;
+}
+.vditor-reset h2::before {
+	margin-top: 1em;
+}
+.vditor-reset h3::before {
+	margin-top: 0.5em;
+}
+.vditor-reset h4::before {
+	margin-top: 0.45em;
+}
+.vditor-reset h5::before {
+	margin-top: 0.25em;
+}
+.vditor-reset h6::before {
+	margin-top: 0.25em;
 }
 .vditor-reset p,
 blockquote,
