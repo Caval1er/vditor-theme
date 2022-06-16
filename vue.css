@@ -108,7 +108,7 @@ table {
 	font-size: 14px;
 	border: 1px solid #f0f0f0;
 	border-radius: 2px;
-	font-family: var(--font-monospace);
+	font-family: var(--font-monospace) !important;
 }
 
 .vditor-reset code:not(.hljs):not(.highlight-chroma) {
