@@ -120,7 +120,7 @@ table {
 	text-align: left;
 	vertical-align: initial;
 }
-.vditor-rest code.hljs {
+.vditor-reset code.hljs {
 	-webkit-font-smoothing: initial;
 	line-height: 1.43rem;
 	border-radius: 2px;
